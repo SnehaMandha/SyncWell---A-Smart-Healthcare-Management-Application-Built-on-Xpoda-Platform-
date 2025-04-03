@@ -5,6 +5,7 @@ SyncWell is a comprehensive healthcare management application developed on the X
 The objective of this project is to demonstrate proficiency in system analysis and design principles by building a fully functional healthcare management application on the Xpoda platform. SyncWell aims to address real-world healthcare challenges by providing a robust, user-friendly platform for managing essential healthcare operations.
 
 🎯 Features
+
 ✅ Master Data Forms (CRUD Operations)
 Patient Information: Manage patient demographics, medical history, emergency contacts, and other critical data.
 
@@ -34,6 +35,7 @@ Doctor Summary Report: Track doctor performance, workload, and patient interacti
 Billing Summary Report: Provide detailed summaries of financial transactions for improved financial management.
 
 📈 Outcomes & Achievements
+
 Efficient CRUD operations implemented using Xpoda's intuitive form-building tools.
 
 Enhanced operational efficiency through structured reports generated within the Xpoda platform.
@@ -41,6 +43,7 @@ Enhanced operational efficiency through structured reports generated within the 
 Improved patient satisfaction analysis using survey forms integrated into the application.
 
 🚀 Future Enhancements
+
 Integration with External APIs: To provide real-time health monitoring and data synchronization.
 
 AI-driven Analytics: Implementation of predictive analytics for improved decision-making in healthcare management.
@@ -48,6 +51,7 @@ AI-driven Analytics: Implementation of predictive analytics for improved decisio
 Mobile Support: Expanding accessibility by developing a mobile-friendly version of SyncWell on the Xpoda platform.
 
 📋 Project Structure
+
 SyncWell/
 ├── MasterDataForms/
 ├── TransactionForms/
@@ -55,6 +59,7 @@ SyncWell/
 ├── Reports/
 
 📚 Technologies Used
+
 Xpoda Platform: Leveraged for its low-code capabilities, rapid prototyping, and efficient form creation.
 
 SQL (Xpoda Database): Used for managing backend data, generating reports, and maintaining data integrity.
